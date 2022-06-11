@@ -74,5 +74,3 @@ sequelize
 // "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1296&q=60"
 
 // {"products":[{"id":"0.07070240186882604","qty":2},{"id":"0.10320226115158948","qty":1}],"totalPrice":326.1}
-
-mongodb+srv://Hannu:<password>@cluster0.kovqukw.mongodb.net/?retryWrites=true&w=majority
