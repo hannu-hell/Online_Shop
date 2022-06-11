@@ -58,7 +58,7 @@ sequelize
   })
   .then((user) => {
     if (!user) {
-      return User.create({ name: "Hannu", email: "hannu_hell@hotmail.com" });
+      return User.create({ name: "Hannu", email: "example@hotmail.com" });
     }
     return Promise.resolve(user);
   })
