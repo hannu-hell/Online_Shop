@@ -8,4 +8,4 @@ I hope to create branches to explore these methods so they can be refered when n
 
 The main branch will be updated as I progress through the project and the rest of the method will be kept in seperate branches for reference.
 
-## Download the files and then in the command line type 'npm install' to download all dependencies for running. 
+### Download the files and then in the command line type 'npm install' to download all dependencies for running. 
